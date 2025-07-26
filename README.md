@@ -59,11 +59,10 @@ I'm a recent graduate with a **Bachelor of Science in Cyber and Data Security Te
 
 ## 📄 Resume Snapshot
 
-- **Level 3 Commissioned Security Officer**, IAHSS Certified Supervisor
-- **B.S. Cyber and Data Security Technology**, UAGC
-- **Cybersecurity Capstone**: Developed an end-to-end IT security gap analysis for a large corporation
-- **Certifications**: FEMA IS 100/200/700/800, IAHSS Advanced Healthcare Security, Texas A&M Field Training Officer
-- **Cross-trained in healthcare IT**, security response, and outpatient systems
+- **Level 3 Commissioned Security Officer**,
+- **B.S. Cyber and Data Security Technology**, UAGC.
+- **Cybersecurity Capstone**: Developed an end-to-end IT security gap analysis for a large corporation.
+- **Certifications**: FEMA: IS 100/200/700/800, IAHSS: Certified Healthcare Security Supervisor, Texas A&M TEEX: First line Supervisor, FTO, & Dispatcher, TX DPS Level 3 commisioned security officer, AHA: CPR and AED certification.
 
 *Full Resume Available Upon Request or in the Repositories*
 
@@ -73,7 +72,6 @@ I'm a recent graduate with a **Bachelor of Science in Cyber and Data Security Te
 
 - Building a SOC Analyst Toolkit using open-source tools  
 - Writing a blog series: _"From Boots to Bytes: My Cybersecurity Career Change"_  
-- Developing a real estate CRM tool with security-by-design principles  
 - Preparing for CompTIA Security+ Certification, and several Microsoft certifications (Fall 2025 goal)
 
 ---
